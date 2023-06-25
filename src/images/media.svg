@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>newsroom_web_contact_content-icon1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 140 140 140 140 0 0 0"></polygon>
+    </defs>
+    <g id="newsroom_web_contact_content-icon1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon_media">
+            <path d="M140,70 C140,108.66 108.66,140 70,140 C31.34,140 0,108.66 0,70 C0,31.34 31.34,0 70,0 C108.66,0 140,31.34 140,70" id="Fill-1" fill="#E7EDF4"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-4"></g>
+            <polygon id="Fill-3" fill="#FFFFFF" mask="url(#mask-2)" points="28.063 102.285 112.321 102.285 112.321 41.007 28.063 41.007"></polygon>
+            <line x1="38.0947" y1="35.9932" x2="24.1047" y2="50.6972" id="Stroke-5" stroke="#1D2124" stroke-width="2.877" mask="url(#mask-2)"></line>
+            <line x1="103.4346" y1="38.3003" x2="115.5676" y2="50.6963" id="Stroke-6" stroke="#1D2124" stroke-width="2.877" mask="url(#mask-2)"></line>
+            <line x1="116" y1="93.8765" x2="104.983" y2="106.2085" id="Stroke-7" stroke="#1D2124" stroke-width="2.877" mask="url(#mask-2)"></line>
+            <line x1="35.3477" y1="105.4346" x2="24.7357" y2="94.6496" id="Stroke-8" stroke="#1D2124" stroke-width="2.877" mask="url(#mask-2)"></line>
+            <polygon id="Fill-9" fill="#7E9039" mask="url(#mask-2)" points="43.377 87.415 83.401 87.415 83.401 56.939 43.377 56.939"></polygon>
+            <path d="M65.1982,87.4146 C65.1982,77.3616 73.3472,69.2116 83.4012,69.2116 C93.4542,69.2116 101.6042,77.3616 101.6042,87.4146 L65.1982,87.4146 Z" id="Fill-10" fill="#F3BA64" mask="url(#mask-2)"></path>
+            <path d="M74.2998,87.4146 C74.2998,82.3886 78.3748,78.3126 83.4018,78.3126 C88.4278,78.3126 92.5028,82.3886 92.5028,87.4146 L74.2998,87.4146 Z" id="Fill-11" fill="#E75A2D" mask="url(#mask-2)"></path>
+            <path d="M53.8662,57.0937 C53.8662,59.9897 51.5172,62.3387 48.6212,62.3387 C45.7242,62.3387 43.3772,59.9897 43.3772,57.0937 C43.3772,54.1977 45.7242,51.8487 48.6212,51.8487 C51.5172,51.8487 53.8662,54.1977 53.8662,57.0937" id="Fill-12" fill="#2A67B2" opacity="0.5" mask="url(#mask-2)"></path>
+            <path d="M64.3555,57.0937 C64.3555,59.9897 62.0065,62.3387 59.1105,62.3387 C56.2135,62.3387 53.8665,59.9897 53.8665,57.0937 C53.8665,54.1977 56.2135,51.8487 59.1105,51.8487 C62.0065,51.8487 64.3555,54.1977 64.3555,57.0937" id="Fill-13" fill="#0E2135" opacity="0.5" mask="url(#mask-2)"></path>
+            <polygon id="Fill-14" fill="#F3BA64" opacity="0.5" mask="url(#mask-2)" points="53.866 91.443 59.11 91.443 59.11 82.864 53.866 82.864"></polygon>
+        </g>
+    </g>
+</svg>

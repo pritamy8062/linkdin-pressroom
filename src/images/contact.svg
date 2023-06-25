@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>newsroom_web_contact_content-icon2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 140 140 140 140 0 0 0"></polygon>
+    </defs>
+    <g id="newsroom_web_contact_content-icon2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-general-contact2">
+            <path d="M140,70 C140,108.66 108.66,140 70,140 C31.34,140 0,108.66 0,70 C0,31.34 31.34,0 70,0 C108.66,0 140,31.34 140,70" id="Fill-1" fill="#E7EDF4"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-4"></g>
+            <polygon id="Fill-3" fill="#F4BA5A" mask="url(#mask-2)" points="33.287 107.5 106.713 107.5 106.713 55.577 33.287 55.577"></polygon>
+            <polygon id="Fill-5" fill="#FFFFFF" mask="url(#mask-2)" points="40.105 85.996 99.896 85.996 99.896 32.5 40.105 32.5"></polygon>
+            <polygon id="Fill-6" fill="#F4BA5A" mask="url(#mask-2)" points="33.2871 56.626 70.5241 85.472 106.7131 57.15 106.7131 107.5 33.2871 107.5"></polygon>
+            <polygon id="Fill-7" fill="#E29B21" mask="url(#mask-2)" points="70.5244 78.1289 106.7124 107.4999 34.3364 107.4999"></polygon>
+            <path d="M69.7285,62.3428 C71.1055,62.3428 72.2135,63.4508 72.2135,64.8278 C72.2135,66.2048 71.1055,67.3128 69.7285,67.3128 C68.3515,67.3128 67.2435,66.2048 67.2435,64.8278 C67.2435,63.4508 68.3515,62.3428 69.7285,62.3428 M71.3745,56.1298 L71.2065,60.1258 L68.1835,60.1258 L67.8145,53.6128 L69.1585,53.5108 C71.9785,53.3098 73.3215,51.7978 73.3215,49.7158 C73.3215,47.6338 72.0455,46.1228 69.9975,46.1228 C67.7135,46.1228 66.3705,47.5328 66.3705,49.7158 L66.3705,50.2868 L62.8775,50.2868 L62.8775,49.6828 C62.8775,45.2828 66.0355,42.9998 69.8965,42.9998 C75.1355,42.9998 76.9495,46.6948 76.9495,49.6498 C76.9495,52.0668 75.6055,55.4248 71.3745,56.1298" id="Fill-8" fill="#333333" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

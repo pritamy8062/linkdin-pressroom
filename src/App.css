@@ -1,38 +1,481 @@
-.App {
-  text-align: center;
+.navbar {
+  background-color: #ffffff;
+  padding: 5px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-bottom: 3px solid #0077b5;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.logo {
+  display: flex;
+  color: #0077b5;
+  justify-content: center;
+  padding-bottom: 5px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.logoimage {
+  height: 50px;
+  width: 50px;
+  padding-top: 6px;
+  padding-bottom: 6px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.logo:hover {
+  border-bottom: 2px solid #0077b5;
+  cursor: pointer;
+}
+
+.pressword {
+  color: rgb(152, 152, 152);
+  padding: 10px;
+  font-weight: 200;
+}
+
+.nav-links {
+  padding-right: 20px;
+  border-right: 2px solid rgb(213, 213, 213);
+}
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar ul li a {
+  color: #0077b5;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.navbar ul li a:hover {
+  border-bottom: 2px solid #0077b5;
+}
+
+.navbar-logo {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* code for navbar button */
+
+.button {
+  padding-left: 5px;
+}
+
+.nav-btn {
+  color: #0077b5;
+  background-color: #ffffff;
+  border: 1.5px solid #0077b5;
+  border-radius: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-right: 15px;
+  padding-left: 15px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  transition: box-shadow 0.3s;
+}
+
+.nav-btn:hover {
+  box-shadow: inset 0 0 10px rgba(99, 157, 238, 0.5);
+  cursor: pointer;
+  border: 1.5px solid #0077b5;
+  background-color: #e0e8ed;
+}
+
+/* css of main screen */
+
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.image {
+  display: block;
+  width: 100vw;
+  height: 94vh;
+}
+
+.text-overlay {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  color: rgb(0, 0, 0);
+}
+
+.text {
+  font-size: 60px;
+  font-weight: 100;
+}
+
+.text2 {
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.startExploring {
+  color: #0077b5;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.startExploring:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* css of carousel */
+
+.d-flex {
+  background-color: #ffffff;
+  padding: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading {
+  padding-right: 50px;
+  padding-left: 100px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.paragraph,
+.cbutton {
+  padding-right: 50px;
+  padding-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 0;
+}
+
+/* css of exlore section */
+
+.titleBelowIcon {
+  padding: 30px;
+  color: #0077b5;
+  /* font-size: 30px; */
+  font-weight: 500;
+}
+
+.titleBelowIcon:hover {
+  padding: 30px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.headingOfExplore {
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 80px;
+  font-size: 40px;
+  font-weight: 100;
+}
+
+.box {
+  background-color: rgb(252, 245, 235);
+}
+
+.flexbox {
+  display: flex;
+  justify-content: space-evenly;
+}
+/* .cbutton {
+  padding-right: 50px;
+  padding-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 0;
+} */
+
+/* css of footer section */
+
+.footer {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: rgb(241, 241, 241);
+  border-top: 1px solid grey;
+  display: flex;
+  justify-content: center;
+}
+
+.footerul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+.footerul li {
+  /* color: #0077b5; */
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.footerul li:hover {
+  cursor: pointer;
+  border-bottom: 2px solid grey;
+}
+
+.copyright {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+/* follow section css */
+
+.follow {
+  padding-top: 80px;
+  padding-bottom: 150px;
+  background-color: rgb(255, 255, 255);
+  /* border-top: 1px solid grey; */
+  display: flex;
+  justify-content: space-around;
+}
+
+.imageOfFollow {
+  height: 40px;
+}
+
+.divofimage {
+  height: 40px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
+
+.divofimage:hover {
+  border-bottom: 2px solid #0077b5;
+  cursor: pointer;
+}
+
+.headingOfFollow {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-right: 100px;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+/* code for explore latest news section */
+
+.outerDiv {
+  /* padding: 20px; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.newsimage {
+  height: 240px;
+  width: 25vw;
+}
+
+.secondDiv {
+  padding: 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.innerMostDiv {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.headingOfNews {
+  padding-top: 10px;
+  font-size: 18px;
+}
+
+.heading2OfNews {
+  padding-top: 3px;
+  font-size: 14px;
+  color: #262626;
+  font-weight: normal;
+}
+
+.heading2OfNews:hover,
+.headingOfNews:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.paragraphOfNews {
+  padding-top: 20px;
+  width: 25vw;
+}
+
+.categories {
+  font-size: 14px;
+  color: grey;
+  font-weight: normal;
+  padding-top: 3px;
+}
+
+.categoryAndLink {
+  display: flex;
+}
+
+.dateandpromotion {
+  display: flex;
+}
+
+.date {
+  color: #707070;
+  padding-left: 10px;
+}
+
+.allcategories {
+  font-size: 14px;
+  padding-top: 1.5px;
+  list-style-type: none;
+  display: flex;
+  gap: 2px;
+  padding-left: 5px;
+}
+.allcategories li {
+  color: #0077b5;
+  font-weight: 500;
+}
+
+.allcategories li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.firstDivOfNews {
+  padding-top: 20px;
+  padding-left: 80px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.headingOfFirstDivOfNews {
+  font-size: 40px;
+  font-weight: 100;
+  padding-bottom: 20px;
+}
+
+.liOfFirstDivOfNews {
+  font-size: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-right: 1px solid #707070;
+}
+
+.chooseRegion,
+.chooseTopic {
+  font-size: 16px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  padding-top: 3px;
+}
+
+.thirdDivOfNews {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+.previousOrNext {
+  color: #828485;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-size: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: 200;
+}
+
+.exploreMoreResources {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  border-width: 2px;
+}
+
+.exploreMoreResources::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 75%;
+  border-bottom: 1.5px solid rgb(221, 221, 221);
+}
+
+.exploreMoreResources::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 75%;
+  border-bottom: 1.5px solid rgb(221, 221, 221);
+}
+
+.outsideDivOfResourceBox {
+  padding: 35px;
+}
+
+/* External resources code */
+
+.outerMostDivOfExternalResorces {
+  padding: 20px;
+}
+
+.outerBoxOfExternalResources {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  border: 2px solid black;
+  width: 70vw;
+  padding: 20px;
+}
+
+.innerBoxOfExternalResources {
+  font-size: 14px;
+  list-style-type: none;
+}
+
+.innerBoxOfExternalResources li {
+  color: #a3a3a3;
+  font-weight: 500;
+}
+
+.setOf4listItems {
+  padding: 30px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.headingOfExternalResources {
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 60px;
 }
 
-.App-link {
-  color: #61dafb;
+.headingOfExternalResources h1 {
+  font-size: 40px;
+  font-weight: 100;
+  padding-bottom: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.innerBoxOfExternalResources li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #262626;
 }
+
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>newsroom_web_contact_content-icon3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 140 140 140 140 0 0 0"></polygon>
+    </defs>
+    <g id="newsroom_web_contact_content-icon3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-speaker-about3">
+            <path d="M140,70 C140,108.66 108.66,140 70,140 C31.34,140 0,108.66 0,70 C0,31.34 31.34,0 70,0 C108.66,0 140,31.34 140,70" id="Fill-1" fill="#E7EDF4"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-4"></g>
+            <polygon id="Fill-3" fill="#2A67B2" mask="url(#mask-2)" points="22.922 74.251 38.806 74.251 38.806 51.871 22.922 51.871"></polygon>
+            <path d="M30.8633,96 L30.8633,96 C29.2683,96 27.9753,94.707 27.9753,93.112 L27.9753,73.62 L33.7523,73.62 L33.7523,93.112 C33.7523,94.707 32.4593,96 30.8633,96" id="Fill-5" fill="#2A67B2" mask="url(#mask-2)"></path>
+            <polygon id="Fill-6" fill="#333333" mask="url(#mask-2)" points="19.313 69.198 22.922 69.198 22.922 56.925 19.313 56.925"></polygon>
+            <path d="M84.2734,90.6064 L38.8054,74.2514 L38.8054,51.8704 L84.2734,35.5154 C86.5654,34.6904 88.9804,36.3894 88.9804,38.8244 L88.9804,87.2974 C88.9804,89.7324 86.5654,91.4314 84.2734,90.6064" id="Fill-7" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            <line x1="101" y1="62" x2="115" y2="62" id="Stroke-8" stroke="#1D2124" stroke-width="2.321" stroke-linecap="round" mask="url(#mask-2)"></line>
+            <line x1="98" y1="49" x2="111.5" y2="35.5" id="Stroke-9" stroke="#1D2124" stroke-width="2.321" stroke-linecap="round" mask="url(#mask-2)"></line>
+            <line x1="111.5" y1="87" x2="98" y2="73.5" id="Stroke-10" stroke="#1D2124" stroke-width="2.321" stroke-linecap="round" mask="url(#mask-2)"></line>
+        </g>
+    </g>
+</svg>

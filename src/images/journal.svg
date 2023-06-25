@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>newsroom_web_contact_content-icon4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 140 140 140 140 0 0 0"></polygon>
+    </defs>
+    <g id="newsroom_web_contact_content-icon4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-journalist">
+            <path d="M140,70 C140,108.66 108.66,140 70,140 C31.34,140 0,108.66 0,70 C0,31.34 31.34,0 70,0 C108.66,0 140,31.34 140,70" id="Fill-1" fill="#E7EDF4"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-4"></g>
+            <polygon id="Fill-3" fill="#EFB7A8" mask="url(#mask-2)" points="42.378 108.349 96.435 108.349 96.435 27.264 42.378 27.264"></polygon>
+            <line x1="39" y1="101.5918" x2="45.757" y2="101.5918" id="Stroke-5" stroke="#232323" stroke-width="3.379" mask="url(#mask-2)"></line>
+            <line x1="39" y1="94.834" x2="45.757" y2="94.834" id="Stroke-6" stroke="#232323" stroke-width="3.379" mask="url(#mask-2)"></line>
+            <line x1="39" y1="88.0771" x2="45.757" y2="88.0771" id="Stroke-7" stroke="#232323" stroke-width="3.379" mask="url(#mask-2)"></line>
+            <line x1="39" y1="81.3203" x2="45.757" y2="81.3203" id="Stroke-8" stroke="#232323" stroke-width="3.379" mask="url(#mask-2)"></line>
+            <line x1="39" y1="74.5635" x2="45.757" y2="74.5635" id="Stroke-9" stroke="#232323" stroke-width="3.379" mask="url(#mask-2)"></line>
+            <line x1="39" y1="67.8057" x2="45.757" y2="67.8057" id="Stroke-10" stroke="#232323" stroke-width="3.379" mask="url(#mask-2)"></line>
+            <line x1="39" y1="61.0488" x2="45.757" y2="61.0488" id="Stroke-11" stroke="#232323" stroke-width="3.379" mask="url(#mask-2)"></line>
+            <line x1="39" y1="54.292" x2="45.757" y2="54.292" id="Stroke-12" stroke="#232323" stroke-width="3.379" mask="url(#mask-2)"></line>
+            <line x1="39" y1="47.5352" x2="45.757" y2="47.5352" id="Stroke-13" stroke="#232323" stroke-width="3.379" mask="url(#mask-2)"></line>
+            <line x1="39" y1="40.7773" x2="45.757" y2="40.7773" id="Stroke-14" stroke="#232323" stroke-width="3.379" mask="url(#mask-2)"></line>
+            <line x1="39" y1="34.0205" x2="45.757" y2="34.0205" id="Stroke-15" stroke="#232323" stroke-width="3.379" mask="url(#mask-2)"></line>
+            <polygon id="Fill-16" fill="#FFFFFF" mask="url(#mask-2)" points="55.893 67.806 82.921 67.806 82.921 47.535 55.893 47.535"></polygon>
+            <line x1="60.9604" y1="54.292" x2="77.8534" y2="54.292" id="Stroke-17" stroke="#1D2124" stroke-width="1.049" stroke-linecap="round" mask="url(#mask-2)"></line>
+            <line x1="60.9604" y1="61.0488" x2="77.8534" y2="61.0488" id="Stroke-18" stroke="#1D2124" stroke-width="1.049" stroke-linecap="round" mask="url(#mask-2)"></line>
+            <polygon id="Fill-19" fill="#F3B964" mask="url(#mask-2)" points="57.4067 118.7969 111.6487 64.9769 109.7857 64.9839 109.7977 63.5549 108.3507 63.5359 108.4277 61.7339 54.1877 115.5519"></polygon>
+            <polygon id="Fill-20" fill-opacity="0.5" fill="#905908" mask="url(#mask-2)" points="57.4067 118.7969 111.6487 64.9769 109.7857 64.9839 109.7977 63.5549 55.7967 117.1739"></polygon>
+            <polygon id="Fill-21" fill="#BEC3C8" mask="url(#mask-2)" points="109.7974 63.5547 109.7854 64.9847 111.6494 64.9767 115.0004 58.3927 108.4284 61.7337 108.3504 63.5357"></polygon>
+            <path d="M54.1875,115.5518 L57.4065,118.7968 L54.6605,121.5218 C54.2865,121.8928 53.6835,121.8898 53.3125,121.5168 L51.4365,119.6248 C51.0645,119.2508 51.0675,118.6478 51.4405,118.2778 L54.1875,115.5518 Z" id="Fill-22" fill="#EFB6A7" mask="url(#mask-2)"></path>
+            <polygon id="Fill-23" fill="#334A5F" mask="url(#mask-2)" points="114.1499 60.0625 114.9999 58.3925 113.3339 59.2405"></polygon>
+            <polygon id="Fill-24" fill="#7E8B8D" mask="url(#mask-2)" points="57.8086 118.3984 54.5886 115.1544 53.7866 115.9504 57.0066 119.1944"></polygon>
+        </g>
+    </g>
+</svg>
